@@ -11,7 +11,7 @@
       "dct:title": "Dépense pour la formation professionnelle",
       "dct:description": "Dataset sur les dépenses pour la formation professionnelle continue et l'apprentissage",
       "dcat:landingPage": "https://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_DEP_FORM_PROF_JBD",
-      "dcat:keyword": [],
+      "dcat:keyword": ["hvd","statistiques"],
       "dct:issued": "2024-04-05T15:33:18",
       "dct:license": "https://www.etalab.gouv.fr/licence-ouverte-open-licence",
       "dcat:distribution": []
@@ -23,7 +23,7 @@
       "dct:title": "Recettes budget",
       "dct:description": "",
       "dcat:landingPage": "https://catalogue-donnees.insee.fr/fr/catalogue/recherche/DS_RECETTES_CA",
-      "dcat:keyword": [],
+      "dcat:keyword": ["hvd","statistiques"],
       "dct:issued": "2024-04-05T15:28:46",
       "dct:license": "https://www.etalab.gouv.fr/licence-ouverte-open-licence",
       "dcat:distribution": []
